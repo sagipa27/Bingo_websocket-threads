@@ -1,7 +1,7 @@
 # BingoGame_UsingSpringboot-
 
 
-It is required to play the Bingo game through the mandatory use of threads and sockets. The development tool can be Java, Python, c, node.js or visual studio in a web, console or graphical environment.
+It is required to play the Bingo game through the mandatory use of threads and sockets. Using SpringBoot.
 CUSTOMERS
  
 
